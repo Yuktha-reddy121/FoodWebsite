@@ -629,6 +629,8 @@
         </div>
         <p class="end">Design by<span><i class="fa-solid fa-face-grin"></i> Bodela Yuktha Sikhara Sai</span></p>
     </footer>
+<p>when you run the same thing on web you will get</p>
+<img src>https://github.com/Yuktha-reddy121/Uncle-Ben-s-Truffles-Cafe/blob/main/127.0.0.1_5500_home.html.png
 
 
 
